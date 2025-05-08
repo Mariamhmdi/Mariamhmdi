@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Maria Mohammadi  a developer and web designer with experience in building dynamic, user-friendly websites using ASP.NET, C#, Entity Framework, HTML, and CSS.
+I'm Maria Mohammadi  a fullstack developer and web designer with experience in building dynamic, user-friendly websites using ASP.NET, C#, Entity Framework, HTML, and CSS.
 
 
 ## 🌐 Socials:
@@ -16,3 +16,5 @@ I'm Maria Mohammadi  a developer and web designer with experience in building dy
 [![](https://visitcount.itsvg.in/api?id=Mariamhmdi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
