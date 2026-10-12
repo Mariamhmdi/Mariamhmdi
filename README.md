@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Maria Mohammadi  a fullstack developer and web designer with experience in building dynamic, user-friendly websites using ASP.NET, C#, Entity Framework, HTML, and CSS.
+I'm Maria Mohammadi, a curious and creative person who enjoys exploring new ideas, solving problems, and turning imagination into reality. I believe in continuous learning, personal growth, and challenging myself to become better every day. I'm passionate about creating meaningful digital experiences, paying attention to the details, and finding thoughtful solutions to complex problems. I value creativity, persistence, and the freedom to experiment, and I see every challenge as an opportunity to learn, grow, and discover new possibilities.
 
 
 ## 🌐 Socials:
